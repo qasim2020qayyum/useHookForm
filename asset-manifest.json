@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/useHookForm/static/css/main.5aa48a0c.css",
+    "main.css": "/useHookForm/static/css/main.1e4020bf.css",
     "main.js": "/useHookForm/static/js/main.1b20f70b.js",
     "index.html": "/useHookForm/index.html",
-    "main.5aa48a0c.css.map": "/useHookForm/static/css/main.5aa48a0c.css.map",
+    "main.1e4020bf.css.map": "/useHookForm/static/css/main.1e4020bf.css.map",
     "main.1b20f70b.js.map": "/useHookForm/static/js/main.1b20f70b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5aa48a0c.css",
+    "static/css/main.1e4020bf.css",
     "static/js/main.1b20f70b.js"
   ]
 }
